@@ -1,0 +1,36 @@
+[project]
+name = "business-tg-bot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "aiofiles==25.1.0",
+    "aiogram==3.28.2",
+    "aiohappyeyeballs==2.6.2",
+    "aiohttp==3.13.5",
+    "aiosignal==1.4.0",
+    "annotated-types==0.7.0",
+    "attrs==26.1.0",
+    "certifi==2026.5.20",
+    "frozenlist==1.8.0",
+    "greenlet==3.5.1",
+    "idna==3.16",
+    "iniconfig==2.3.0",
+    "magic-filter==1.0.12",
+    "multidict==6.7.1",
+    "packaging==26.2",
+    "pluggy==1.6.0",
+    "propcache==0.5.2",
+    "pydantic==2.13.4",
+    "pydantic-core==2.46.4",
+    "pygments==2.20.0",
+    "pytest==9.0.3",
+    "python-dotenv==1.2.2",
+    "redis==7.4.0",
+    "sqlalchemy==2.0.50",
+    "typing-extensions==4.15.0",
+    "typing-inspection==0.4.2",
+    "watchdog==6.0.0",
+    "yarl==1.24.2",
+]
